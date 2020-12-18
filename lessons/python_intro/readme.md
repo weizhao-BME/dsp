@@ -31,3 +31,4 @@ After the Importing with Python section, the students should know how to:
 * Understand the basics of namespaces
 
 # Additional Resources
+[important python slicing](https://railsware.com/blog/python-for-machine-learning-indexing-and-slicing-for-lists-tuples-strings-and-other-sequential-types/)
