@@ -24,6 +24,8 @@ For those looking for a more in-depth treatment of linear algebra, you should ch
 ### 10 Examples of linear algebra in machine learning 
 [link](https://machinelearningmastery.com/examples-of-linear-algebra-in-machine-learning/)
 
+### Basic Linear Algebra for Deep Learning and Machine Learning Python Tutorial
+[link](https://medium.com/towards-artificial-intelligence/basic-linear-algebra-for-deep-learning-and-machine-learning-ml-python-tutorial-444e23db3e9e)
 
 
 
