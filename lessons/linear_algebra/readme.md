@@ -21,6 +21,9 @@ It is highly recommended that you watch the above video series.
 
 For those looking for a more in-depth treatment of linear algebra, you should check out [MIT's 18.06 Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) Course
 
+### 10 Examples of linear algebra in machine learning 
+[link](https://machinelearningmastery.com/examples-of-linear-algebra-in-machine-learning/)
+
 
 
 
