@@ -2,6 +2,6 @@
 
 ---
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+[responses](https://github.com/weizhao-BME/dsp/blob/master/lessons/statistics/thinkstats_exercise/chapter8_exercise3.ipynb)
 
 ---
