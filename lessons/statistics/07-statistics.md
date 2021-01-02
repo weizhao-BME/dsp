@@ -94,7 +94,7 @@ Elvis Presley had a twin brother who died at birth.  What is the probability tha
 How do frequentist and Bayesian statistics compare?
 
 **Frequentist methods** assume the observed data is sampled from some distribution. **Bayesian methods** assume the probabilities for both data and hypotheses(parameters specifying the distribution of the data). **Frequentists** don’t assign probabilities to possible parameter values, but they rely on null hypothesis and confidence intervals to measure uncertainty. **Bayesians** have a full posterior distribution over the possible parameter values and this allows them to get uncertainty of the estimate by integrating the full posterior distribution.
-
+[reading](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading20.pdf)
 ---
 
 ## <a name="section-e"></a>5.  Optional Exercises
